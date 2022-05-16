@@ -7,4 +7,4 @@ Helps you move assets quickly and easily.
 - Adds "Cut" and "Paste" options to assets context menu.
 - Supports moving multiple assets at the same time
 
-![CutAndPaste](./CutAndPaste.png)
+![CutAndPaste](https://github.com/feifeid47/Unity-CutAndPaste/blob/main/CutAndPaste.png)
